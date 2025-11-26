@@ -1,5 +1,6 @@
 
-import java.lang.classfile.Label;
+import javafx.stage.Stage;
+import javafx.scene.control.Label;
 import javafx.application.Application;
 import javafx.geometry.Insets;
 import javafx.scene.Scene;
